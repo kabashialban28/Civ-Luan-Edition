@@ -37,5 +37,77 @@
 		"uniques": ["No damage penalty for wounded units <for [non-air] units>"],
 		"cities": ["Ketilsstaoir","Frooaross","Hraun","Geirhildarvatn","Dumbshaf","Leioolfsstaoir","Hraunsass","Mosfell","Geirmundarstaoir","Holmgaror","Selaeyrr",
 "Horga","Fellshverfi","Kalfborgara","Reykir inir efri","Bolstaor","Beruvikrhraun","Berghylr","Rauosgil"]
+	},
+
+	{
+		"name": "Seattle Commune",
+		"leaderName": "Howard Unruh",
+		"adjective": ["Seattelese"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Cultural",
+		
+		"startIntroPart1": "when the anarchy strikes, seattle becomes their breadbasket.",
+		"startIntroPart2": "Howard unruh, you are our only hope of humanity's finest warboys!",
+		
+		"declaringWar": "i guess i should spread the anarchy to your country.",
+		"attacked": "Were you even trying?",
+		"defeated": "okay, let me say this... You are only hirting yourself!",
+		"introduction": "it is howard unruh, lord of the anarchies. whats the haps!?.",
+		
+		"neutralHello": "How are you doing?",
+		//"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		//"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		//"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+		"hateHello": "What do you want now?",
+		//"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		//"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		//"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		
+		//"afterPeace": "Very well, all that fighting was getting boring anyway.",
+		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"denounced": "The accusations of primitive lifeforms are beneath us.",
+		"declaringfriendship": "Let us become like friends!",
+
+		"outerColor": [128, 128,128],
+		"innerColor": [0, 0, 0],
+		"unique": "A_WORLD EVER UNFRIENDLY",
+		"cities": ["Seattle"]
+	},
+
+	{
+		"name": "Silver legion",
+		"leaderName": "King William I of Pelley",
+		"adjective": ["Silver Legioner"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "just as a Group started with their own land,",
+		"startIntroPart2": "william dudley pelley became their king!",
+		
+		"declaringWar": "the king does the orders...",
+		"attacked": "wait till the guardsmen hear about this...",
+		"defeated": "willard, melford, roy, alvin, i think its time i went to bed",
+		"introduction": "greeting from king william of pelley.",
+		
+		"neutralHello": "How are you doing?",
+		//"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		//"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		//"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+		"hateHello": "What do you want now?",
+		//"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		//"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		//"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		
+		//"afterPeace": "Very well, all that fighting was getting boring anyway.",
+		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"denounced": "The accusations of primitive lifeforms are beneath us.",
+		"declaringfriendship": "Let us become like friends!",
+
+		"outerColor": [255, 0, 0],
+		"innerColor": 128, 128, 128],
+		"unique": "THE_LEGIONARY_FAVOUR",
+		"cities": ["Spokane"]
 	}
 ]
