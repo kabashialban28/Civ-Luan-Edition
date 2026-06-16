@@ -44,7 +44,7 @@
 		"leaderName": "Meg Grifin",
 		"adjective": ["petorian"],
 		"startBias": ["Plains"],
-		"preferredVictoryType": "Diplomatic",
+		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "'From thid day fourth, i will now call my nation as PETORIA!",
 		"startIntroPart2": "- Peter Griffin",
@@ -78,7 +78,7 @@
 		"leaderName": "Howard Unruh",
 		"adjective": ["Seattelese"],
 		"startBias": ["Plains"],
-		"preferredVictoryType": "Cultural",
+		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "when the anarchy strikes, seattle becomes their breadbasket.",
 		"startIntroPart2": "Howard unruh, you are our only hope of humanity's finest warboys!",
