@@ -73,7 +73,6 @@
 		"cities": ["31 Spooner Street","29 Spooner Street","33 Spooner Street","27 Spooner Street","37 Spooner Street","40 Spooner Street","50 Spooner Street"]
 		}, 
 
-	[
 	{
 		"name": "Seattle Commune",
 		"leaderName": "Howard Unruh",
@@ -109,6 +108,4 @@
 		"unique": "A_WORLD EVER UNFRIENDLY",
 		"cities": ["Seattle"]
 	}
-]
-
 ]
