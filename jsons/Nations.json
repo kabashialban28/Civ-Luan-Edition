@@ -37,5 +37,78 @@
 		"uniques": ["No damage penalty for wounded units <for [non-air] units>"],
 		"cities": ["Ketilsstaoir","Frooaross","Hraun","Geirhildarvatn","Dumbshaf","Leioolfsstaoir","Hraunsass","Mosfell","Geirmundarstaoir","Holmgaror","Selaeyrr",
 "Horga","Fellshverfi","Kalfborgara","Reykir inir efri","Bolstaor","Beruvikrhraun","Berghylr","Rauosgil"]
+	},
+
+		{
+		"name": "Petoria",
+		"leaderName": "Meg Grifin",
+		"adjective": ["petorian"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Diplomatic",
+		
+		"startIntroPart1": "'From thid day fourth, i will now call my nation as PETORIA!",
+		"startIntroPart2": "- Peter Griffin",
+		
+		"declaringWar": "You are Worse then my Dad who Neglects Me!",
+		"attacked": "One day, You May regret What You Have Done!",
+		"defeated": "You Know Why You caused This. My dad who Always Neglacts me for THIS. AND SO IS YOU!!!",
+		"introduction": "I may Welcome You to your Journey",
+		
+		"neutralHello": "What should we do?",
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+		"hateHello": "Is is only a matter of time?",
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		
+		"afterPeace": "The Contract Had Been Made.",
+		"tradeRequest": "That Would be Very Good TYVM.",
+
+		"outerColor": [245,245,200],
+		"innerColor": [0,64,0],
+		"unique": "Adopt [Republic]",
+		"cities": ["31 Spooner Street","29 Spooner Street","33 Spooner Street","27 Spooner Street","37 Spooner Street","40 Spooner Street","50 Spooner Street"]
+		}, 
+
+	[
+	{
+		"name": "Seattle Commune",
+		"leaderName": "Howard Unruh",
+		"adjective": ["Seattelese"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Cultural",
+		
+		"startIntroPart1": "when the anarchy strikes, seattle becomes their breadbasket.",
+		"startIntroPart2": "Howard unruh, you are our only hope of humanity's finest warboys!",
+		
+		"declaringWar": "i guess i should spread the anarchy to your country.",
+		"attacked": "Were you even trying?",
+		"defeated": "okay, let me say this... You are only hirting yourself!",
+		"introduction": "it is howard unruh, lord of the anarchies. whats the haps!?.",
+		
+		"neutralHello": "How are you doing?",
+		//"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		//"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		//"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+		"hateHello": "What do you want now?",
+		//"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		//"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		//"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		
+		//"afterPeace": "Very well, all that fighting was getting boring anyway.",
+		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"denounced": "The accusations of primitive lifeforms are beneath us.",
+		"declaringfriendship": "Let us become like friends!",
+
+		"outerColor": [128, 128,128],
+		"innerColor": [0, 0, 0],
+		"unique": "A_WORLD EVER UNFRIENDLY",
+		"cities": ["Seattle"]
 	}
+]
+
 ]
