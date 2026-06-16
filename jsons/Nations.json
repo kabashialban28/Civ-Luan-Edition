@@ -107,5 +107,39 @@
 		"innerColor": [0, 0, 0],
 		"unique": "A_WORLD EVER UNFRIENDLY",
 		"cities": ["Seattle"]
-	}
+	},
+
+		{
+		"name": "Oceania",
+		"leaderName": "Big Brother",
+		"adjective": ["Oceanian"],
+		"startBias": ["Grass"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "War is peace.",
+		"startIntroPart2": "Freedom is slavery. Ignorance is strength",
+
+		
+		"declaringWar": "You will be sent to the Ministry Of Love",
+		"attacked": "You will end up like Winston Smith",
+		"defeated": "My attacks have failed. This is the end",
+		"introduction": "Big Brotheris watching you",
+		
+		"neutralHello": "How are you doing?",
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+		"hateHello": "What do you want now?",
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		
+		"afterPeace": "After all, the Perpetual War is stupid anyway",
+		"tradeRequest": "The Ministry Of Plenty might agree on this",
+
+		"outerColor": [255,0,0],
+		"innerColor": [0,0,0],
+		"cities": ["Cheif City", "Washington DC", "New York", "Denver", "Ottowa", "Brazzaville", "Sydney"]
+		}
 ]
