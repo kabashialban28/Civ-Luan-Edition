@@ -304,5 +304,71 @@
 		"innerColor": [20,0,0],
 		"cities":["Germ City","Land Of Boundaries","Grandus","The Coast","Hakarniaa","Zhendis-Deiya","Adamstaat"]
 	},
+		{
+		"name": "Woolhaven",
+		"leaderName": "Lambert, Eternal Emperor",
+		"adjective": ["Woolhavenese"],
+		"startBias": ["Snow"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "I am not afraid of an army of lions led by a sheep; I am afraid of an army of sheep led by a lion",
+		"startIntroPart2": "- Alexander the Third of Homigas",
+		
+		"declaringWar": "You are Not welcome in our Lands...",
+		"attacked": "Oh my god, How?",
+		"defeated": "oh. i feel so sad because of this",
+		"introduction": "It is i, lambert the eternal Emperor.  Should we meet sometime?",
+		
+		"neutralHello": "How are you doing?",
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+		"hateHello": "What do you want now?",
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		
+		"afterPeace": "Very well, all that fighting was getting boring anyway.",
+		"tradeRequest": "We bestow you the honor of this trade offer.",
+
+		"outerColor": [0, 0, 0],
+		"innerColor": [255, 0, 0],
+		"unique": "KINGDOM_OF_PEACE",
+		"cities": ["Grand Marais", "Barraga", "Escanaba", "St. Ignance", "Iron Mountain", "Newberry", "Trout lake"]
+	}
+	{
+		"name": "Autumn Waffle",
+		"leaderName": "James Mason",
+		"adjective": ["Autumnwaffle"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "There is no room in this world for cowardly people",
+		"startIntroPart2": "- Dolfy",
+		
+		"declaringWar": "you think you are whiter then our flag and nation!",
+		"attacked": "lets commence Waffle crusade",
+		"defeated": "a thousand years forgotten...",
+		"introduction": "i am James Mason. Recpunceling you with the likes of Martin Luther Pierce",
+		
+		"neutralHello": "How are you doing?",
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+		"hateHello": "What do you want now?",
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		
+		"afterPeace": "Very well, all that fighting was getting boring anyway.",
+		"tradeRequest": "We bestow you the honor of this trade offer.",
+
+		"outerColor": [255, 255, 255],
+		"innerColor": [255, 200, 0],
+		"unique": "TRIUMPH_OF_THE_WILL",
+		"cities": ["Grand Marais", "Barraga", "Escanaba", "St. Ignance", "Iron Mountain", "Newberry", "Trout lake"]
+	}
 	
 ]
