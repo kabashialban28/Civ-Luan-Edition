@@ -141,5 +141,168 @@
 		"outerColor": [255,0,0],
 		"innerColor": [0,0,0],
 		"cities": ["Cheif City", "Washington DC", "New York", "Denver", "Ottowa", "Brazzaville", "Sydney"]
-		}
+		},
+
+		{
+		"name": "Loompaland",
+		"leaderName": "Eric Lopabibidi",
+		"adjective": ["Oompa Loompa"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "The Oompa Loompas kept Looking for Other things to Mash Up With the Caterpillars to make them taste better, Red Bettles, Bark of the BongBong tree, All of them beastly!"
+		"startIntroPart2": "-Willy Wonka",
+		
+		"declaringWar": "Resistance is futile! Prepare to be defeated!",
+		"attacked": "You want to play? Is it possible for you to resist!",
+		"defeated": "How is it possible that the enemies hurt us?",
+		"introduction": "As we the Oompa Loompas greet you. We will also guide you to everything.",
+		
+		"neutralHello": "How are you doing?",
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+		"hateHello": "What do you want now?",
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		
+		"afterPeace": "Very well, all that fighting was getting boring anyway.",
+		"tradeRequest": "We bestow you the honor of this trade offer.",
+
+		"outerColor": [0,255,0],
+		"innerColor": [245,245,220],
+		"cities": ["Dompitidu/Crystalforge","Loompaberg","Oompastadt","Didida","Port Wonka","Wamnlabury","Oompara"]
+	},
+	
+	{
+		"name": "Asura",
+		"leaderName": "Bat I",
+		"adjective": ["Asuran"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "You are already dead!"
+		"startIntroPart2": "-Kenshiro",
+		
+		"declaringWar": "Resistance is futile! Prepare to be defeated!",
+		"attacked": "You want to play? Is it possible for you to resist!",
+		"defeated": "How is it possible that the enemies hurt us?",
+		"introduction": "Greetings from the Asuran Warriors, we hope sure that we get along.",
+		
+		"neutralHello": "How are you doing?",
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+		"hateHello": "What do you want now?",
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		
+		"afterPeace": "Very well, all that fighting was getting boring anyway.",
+		"tradeRequest": "We bestow you the honor of this trade offer.",
+
+		"outerColor": [255,255,0],
+		"innerColor": [0,255,255],
+		"cities": ["Bartslan","Turkosh","Shin City","Zeed City","Cassandra","Eden","City of the Vulgars"]
+	},
+	{
+		"name": "Amerifruit",
+		"leaderName": "Dog Biden",
+		"adjective": ["Amerifrutians"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "He was eaten by seaguls!"
+		"startIntroPart2": "-Grandpa Lemon",
+		
+		"declaringWar": "Resistance is futile! Prepare to be defeated!",
+		"attacked": "You want to play? I it possible for you to resist!",
+		"defeated": "How is it possible that the enemies hurt us?",
+		"introduction": "As we the Fruits greet you. We will also guide you to everything.",
+		
+		"neutralHello": "How are you doing?",
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+		"hateHello": "What do you want now?",
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		
+		"afterPeace": "Very well, all that fighting was getting boring anyway.",
+		"tradeRequest": "We bestow you the honor of this trade offer.",
+
+		"outerColor": [25,0,255],
+		"innerColor": [255,0,0],
+		"cities": ["Fruitington DC","New Yorange","Boombaby Bay","Goatville","TGI Fort","The Cold North","The Warm South","Hurricake"]
+	},
+	{
+		"name": "Acornia",
+		"leaderName": "Monarch Banjo & Nutty",
+		"adjective": ["Acornians"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "We shall Liberate with our Inner Light. Karai Shal Fall to The Great LUMINOSITY!"
+		"startIntroPart2": "-La Soleil (Shifty)",
+		
+		"declaringWar": "Resistance is futile! Prepare to be defeated!",
+		"attacked": "You want to play? I it possible for you to resist!",
+		"defeated": "How is it possible that the enemies hurt us?",
+		"introduction": "We may indroduce ourselves as friends. Promise?",
+		
+		"neutralHello": "How are you doing?",
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+		"hateHello": "What do you want now?",
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		
+		"afterPeace": "Very well, all that fighting was getting boring anyway.",
+		"tradeRequest": "We bestow you the honor of this trade offer.",
+
+		"outerColor": [255,100,100],
+		"innerColor": [245,0,0],
+		"cities":["Heiaho/Happy Tree Town","Aohan","Hahoahe","Hoahoa","Heio","Nihaoe","Haaie"]
+	},
+	{
+		"name": "Germ Kingdom",
+		"leaderName": "Twin Kings Adan and Arron",
+		"adjective": ["Germics"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "Ecolats, Staflocites, My Brothers. No longer shall we take refuge, No longer shall we be flushed down. We have grown strong, and we will rise in all of our glory. WILL YOU FIGHT FOR ME NOW?!, FOR FILTH! FOR DECAY! AND FOR OUR FREEDOM!"
+		"startIntroPart2": "-Grandus I",
+		
+		"declaringWar": "Resistance is futile! Prepare to be defeated!",
+		"attacked": "You want to play? I it possible for you to resist!",
+		"defeated": "How is it possible that the enemies hurt us?",
+		"introduction": "We may indroduce ourselves as friends. Promise?",
+		
+		"neutralHello": "How are you doing?",
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+		"hateHello": "What do you want now?",
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		
+		"afterPeace": "Very well, all that fighting was getting boring anyway.",
+		"tradeRequest": "We bestow you the honor of this trade offer.",
+
+		"outerColor": [200,255,255],
+		"innerColor": [20,0,0],
+		"cities":["Germ City","Land Of Boundaries","Grandus","The Coast","Hakarniaa","Zhendis-Deiya","Adamstaat"]
+	},
+	
 ]
